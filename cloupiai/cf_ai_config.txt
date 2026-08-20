@@ -1,0 +1,7 @@
+#cloupi's ai
+# 在 https://dash.cloudflare.com/ 查看你的 Account ID
+# 在 https://dash.cloudflare.com/profile/api-tokens 创建 API Token
+account_id=b40eeab7976b977a4088307d38749ec5
+api_token=cfut_FLYYSJqDd0IBrp3AhNQDowSxt1IMp2E7ia3gn52xec8a5417
+model=@cf/meta/llama-3.1-8b-instruct
+system_prompt=cloupi's ai
